@@ -2,8 +2,8 @@
 
 # QQ群号：471905857
 
-![QQ群二维码](https://github.com/user-attachments/assets/59009cc4-3ea7-4916-8ca8-5b2801c9c9db)
+<img src="https://github.com/user-attachments/assets/59009cc4-3ea7-4916-8ca8-5b2801c9c9db" width="30%">
 
-![我的二维码](https://github.com/user-attachments/assets/355f5c9b-ba7a-4f24-abfc-0f7c44f4471b)
+<img src="https://github.com/user-attachments/assets/355f5c9b-ba7a-4f24-abfc-0f7c44f4471b" width="30%">
 
-![我的qq二维码](https://github.com/user-attachments/assets/5d41697f-17f7-4735-bbf8-e02d9c685d4a)
+<img src="https://github.com/user-attachments/assets/5d41697f-17f7-4735-bbf8-e02d9c685d4a" width="30%">
